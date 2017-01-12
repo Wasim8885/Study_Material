@@ -1,0 +1,3 @@
+
+Command to Create cscope.out file : 
+	cscope -d -P `pwd`
