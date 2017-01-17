@@ -1,0 +1,10 @@
+Gstreamer Officail Documentation :
+	https://gstreamer.freedesktop.org/documentation/
+Sample Code and dependency :
+	git clone git://anongit.freedesktop.org/gstreamer/gst-docs
+Command to compile : 
+	gcc basic-tutorial-1.c -o basic-tutorial-1 `pkg-config --cflags --libs gstreamer-1.0`
+IRC Channel :
+	IRC/freenode/#gstreamer
+
+
